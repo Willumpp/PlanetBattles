@@ -1,0 +1,1 @@
+buffer_delete(asteroid_buffer);

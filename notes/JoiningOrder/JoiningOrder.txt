@@ -1,0 +1,12 @@
+setype called on player in create (using globals)
+other variables set
+usernames etc are bound
+
+if the player is a host
+call connect_to_server:
+Branch one:
+	server recieves a ping that a player has joined
+	client object is created on every player
+		set_player is sent by the receiving client
+	client object is created as every player
+		set_player is sent by the joining client

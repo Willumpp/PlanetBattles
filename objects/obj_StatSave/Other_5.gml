@@ -1,0 +1,1 @@
+scr_SaveJSON("gamestats.txt", global.mstats);
